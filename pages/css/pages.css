@@ -6,7 +6,7 @@ body {
     -moz-font-feature-settings: 'kern';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #333;
+    color: white;
     line-height: 1.5em;
     padding: 25px;
 }
@@ -15,4 +15,8 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-/* Voeg jouw css hieraan toe */
+body {
+    background-color: gray;
+}
+h1 {color:#d8cf69
+}
