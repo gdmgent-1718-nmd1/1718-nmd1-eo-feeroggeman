@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-    color: #333;
+    color: #000000;
     line-height: 1.5em;
     box-sizing: border-box;
 }
@@ -40,7 +40,7 @@ body {
 .wrapper > nav a {
     display: block;
     text-decoration: none;
-    color: #666;
+    color: #000000;
     position: relative;
 }
 
@@ -50,11 +50,11 @@ body {
     display: block;
     position: absolute;
     left: -25px; 
-    border-left: solid 3px #333;
+    border-left: solid 3px #000000;
 }
 
 .wrapper > nav a:hover {
-    color: #333;
+    color: #000000;
     text-decoration: underline;
 }
 
@@ -113,7 +113,7 @@ iframe {
         position: absolute;
         height: 4px;
         width: 100%;
-        background: #333;
+        background: #000000;
         border-radius: 4px;
         opacity: 1;
         left: 0;
