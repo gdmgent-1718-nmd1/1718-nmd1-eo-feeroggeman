@@ -12,11 +12,16 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    max-width: 100%;
+    float: right; 
 }
 
 body {
-    background-color: gray;
+    background-color: black;
 }
-h1 {color:#d8cf69
+h1 {color:white; 
+}
+
+h2{
+color: #d8cf69;
 }
